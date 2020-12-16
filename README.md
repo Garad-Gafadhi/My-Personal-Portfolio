@@ -1,2 +1,2 @@
-# Sass Portfolio Tutorial
-This is part of my Sass tutorial on YouTube.
+# My Personal Portfolio
+This is a responsive personal portfolio which contains a short resume and a contact imfo.
